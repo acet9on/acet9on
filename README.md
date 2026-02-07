@@ -9,4 +9,4 @@ fun fact : I actually suck at coding and stuff
 
 My oldest look at it : ![Alt text](Screenshot_2026-02-06_21-58-13.png)
 
-My newest look at it : ![Alt text](Screenshot_2026-02-06_120228.png)
+My newest look at it : ![Alt text](Screenshot_20260207_120228.png)
