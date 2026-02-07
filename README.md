@@ -7,4 +7,6 @@ distros : I used Arch Linux, NixOS, Ubuntu (and many spinoffs), and also Manjaro
 
 fun fact : I actually suck at coding and stuff
 
-My current look at it : ![Alt text](Screenshot_2026-02-06_21-58-13.png)
+My oldest look at it : ![Alt text](Screenshot_2026-02-06_21-58-13.png)
+
+My newest look at it : ![Alt text](Screenshot_2026-02-06_21-58-13.png)
