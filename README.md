@@ -8,7 +8,7 @@ fun fact : I actually suck at coding and stuff
 
 My oldest look at it : 
 <details>
-![Alt text](Screenshot_2026-02-06_21-58-13.png)
+![image](Screenshot_20260207_120228.png)
 </details>
 
 
