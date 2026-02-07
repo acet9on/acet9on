@@ -6,13 +6,6 @@ distros : I used Arch Linux, NixOS, Ubuntu (and many spinoffs), and also Manjaro
 
 fun fact : I actually suck at coding and stuff
 
-My oldest look at it : 
-<details>
+Look at it : 
 ![image](Screenshot_20260207_120228.png)
-</details>
 
-
-My newest look at it : 
-<details>
-![Alt text](Screenshot_20260207_120228.png)
-</details>
